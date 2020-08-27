@@ -1,5 +1,0 @@
-Sensores:
-
-{% for sensor in sensorList %}
- ID: {{sensor.id}} NAME: {{sensor.name}}
-{% endfor %}
